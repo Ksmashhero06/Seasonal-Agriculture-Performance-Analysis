@@ -7,3 +7,6 @@ __pycache__/
 # Antigravity agent internal memory
 .agent_journal.json
 .agent_code_map.md
+
+# Personal documents
+DOC-*.pdf
