@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Antigravity agent internal memory
+.agent_journal.json
+.agent_code_map.md
