@@ -5,12 +5,16 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Ensemble-red.svg)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **VOIS AICTE Batch 1 (2026-2027) Major Project**  
-> **Student**: Sathiyamoorthi K | **Institution**: IFET College of Engineering | **AICTE STU ID**: STU663c9352627131715245906
+> **Edunet Foundation × VOIS for Tech (Vodafone Idea Foundation) — Data Analytics Internship**  
+> **Intern**: Sathiyamoorthi K | **Institution**: IFET College of Engineering  
+> **AICTE STU ID**: `STU663c9352627131715245906` | **Internship ID**: `INTERNSHIP_17830691666a4779eecfe8a`  
+> **Duration**: 10th August 2026 – 10th September 2026 (4 Weeks)
 
 ---
 
 ## 📌 Project Overview
+
+This project is the **Major Capstone Deliverable** of the **Edunet Foundation Internship**, powered by **VOIS for Tech** (Vodafone Idea Foundation) in collaboration with **AICTE**. The program equips technical students with hands-on, project-based learning in **Data Analytics** through mentored real-world problem solving.
 
 Agricultural activities in India are heavily contingent on seasonal variations in environmental factors, resource availability, and soil fertility. Raw farm data often obscures the underlying seasonal trends that govern crop yields and farm profitability.
 
@@ -129,9 +133,11 @@ jupyter notebook seasonal_agriculture_performance_analysis.ipynb
 
 ## 👤 Author Information
 
-- **Student Name**: Sathiyamoorthi K
+- **Intern Name**: Sathiyamoorthi K
 - **Institution**: IFET College of Engineering
 - **AICTE Student ID**: `STU663c9352627131715245906`
+- **Internship ID**: `INTERNSHIP_17830691666a4779eecfe8a`
 - **Email**: [kkssathiyamoorthi@gmail.com](mailto:kkssathiyamoorthi@gmail.com)
 - **GitHub**: [@ksmashhero06](https://github.com/ksmashhero06)
-- **Program**: VOIS AICTE Batch 1 (2026-2027) Major Project
+- **Program**: Edunet Foundation × VOIS for Tech (Vodafone Idea Foundation) — Data Analytics Internship
+- **Duration**: 10th August 2026 – 10th September 2026
