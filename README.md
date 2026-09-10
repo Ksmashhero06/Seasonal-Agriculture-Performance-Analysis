@@ -83,7 +83,6 @@ Predicts whether a farm operation will yield net positive financial returns ($Pr
 ```text
 ├── seasonal_agriculture_performance_analysis.ipynb  # End-to-end interactive Jupyter Notebook
 ├── model_pipeline.py                               # Production training & evaluation script
-├── populate_presentation.py                        # Automated PowerPoint generator script
 ├── seasonal_agriculture_performance_dataset.csv     # 4,000-row agricultural dataset
 ├── VOIS_Major_Project_PPT_Submission_Completed.pptx # 14-slide submission-ready deck
 ├── outputs/                                        # High-resolution visualization figures
